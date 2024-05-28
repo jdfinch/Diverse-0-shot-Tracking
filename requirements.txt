@@ -1,0 +1,7 @@
+torch~=2.0.1
+sentencepiece
+scipy==1.7.3
+unique-names-generator
+openai~=0.27.8
+sentence_transformers
+regex~=2023.6.3

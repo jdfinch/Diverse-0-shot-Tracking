@@ -1,0 +1,13 @@
+*.pyc
+*__pycache__*
+.pytest_cache
+.idea
+dist
+ex
+subgit
+slurm
+cache
+.vscode/
+.env
+ezpyzy/
+language_model/
